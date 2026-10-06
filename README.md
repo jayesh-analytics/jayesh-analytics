@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jayesh%20Suthar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20GenAI&descAlignY=60&descSize=18" alt="Jayesh Suthar banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+AI-assisted+analytics+workflows;Open+to+Data+Analyst+%2F+MIS+%2F+BI+%2F+AI+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+AI-assisted+analytics+workflows;Open+to+Data+Analyst+%2F+MIS+%2F+BI+%2F+AI+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,11 +45,17 @@ I'm a **Data Analyst from Sirohi, Rajasthan** who enjoys turning messy data into
 
 **Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=py,mysql,sqlite,pandas,numpy" alt="Data and analytics tools" /> <br/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://skillicons.dev/icons?i=py,mysql,sqlite" alt="Python, MySQL, SQLite" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
+&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
 
 **Dev Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Antigravity" alt="Dev tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 
 **AI Tools**
 
